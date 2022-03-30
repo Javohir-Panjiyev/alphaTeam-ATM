@@ -1,0 +1,97 @@
+[
+  {
+    "username": "admin",
+    "password": "123",
+    "status": "ACTIVE",
+    "role": "SUPER_ADMIN",
+    "phoneNumber": "998123456789",
+    "language": "UZ",
+    "id": "1450227492414800jwkt26SFvH05r0lt1nvsbvt5Td",
+    "createdAt": "Dec 8, 2021, 6:12:51 PM",
+    "deleted": 0
+  },
+  {
+    "username": "n",
+    "password": "123",
+    "status": "ACTIVE",
+    "role": "CLIENT",
+    "phoneNumber": "998123456789",
+    "language": "UZ",
+    "id": "3379206579300ajD0vTofATvcA4yy2scc93R6wO",
+    "createdBy": "1450227492414800jwkt26SFvH05r0lt1nvsbvt5Td",
+    "createdAt": "Dec 11, 2021, 11:09:05 PM",
+    "deleted": 0
+  },
+  {
+    "username": "s",
+    "password": "321",
+    "status": "ACTIVE",
+    "role": "ADMIN",
+    "phoneNumber": "998987654321",
+    "language": "UZ",
+    "id": "46039642736001Dze0NFEHwYtDWilVuJ17rYfwn",
+    "createdBy": "1450227492414800jwkt26SFvH05r0lt1nvsbvt5Td",
+    "createdAt": "Dec 12, 2021, 1:03:24 PM",
+    "deleted": 0
+  },
+  {
+    "username": "p",
+    "password": "123",
+    "status": "ACTIVE",
+    "role": "EMPLOYEE",
+    "phoneNumber": "+998987654321",
+    "language": "UZ",
+    "id": "35122597726800hZ5hzE55A22buIcLa5U2GeKQVe",
+    "createdBy": "1450227492414800jwkt26SFvH05r0lt1nvsbvt5Td",
+    "createdAt": "Dec 12, 2021, 9:32:01 PM",
+    "deleted": 0
+  },
+  {
+    "username": "a",
+    "password": "123",
+    "status": "ACTIVE",
+    "role": "ADMIN",
+    "phoneNumber": "+998931234567",
+    "language": "UZ",
+    "id": "406180035685700sOgmLWnV8zGSXvBFjZzEqT7ybd",
+    "createdBy": "1450227492414800jwkt26SFvH05r0lt1nvsbvt5Td",
+    "createdAt": "Dec 13, 2021, 2:09:40 PM",
+    "deleted": 0
+  },
+  {
+    "username": "s",
+    "password": "123",
+    "status": "BLOCKED",
+    "role": "ADMIN",
+    "phoneNumber": "+998121234567",
+    "language": "UZ",
+    "id": "406214552422800dlEvPJb3rBzji5MvfpHEJtk2wn",
+    "createdBy": "1450227492414800jwkt26SFvH05r0lt1nvsbvt5Td",
+    "createdAt": "Dec 13, 2021, 2:10:15 PM",
+    "deleted": 0
+  },
+  {
+    "username": "d",
+    "password": "123",
+    "status": "ACTIVE",
+    "role": "ADMIN",
+    "phoneNumber": "+998981234567",
+    "language": "UZ",
+    "id": "406517867940600NlBbzl2dY2k2IbVZjqlWHK2ZpM",
+    "createdBy": "1450227492414800jwkt26SFvH05r0lt1nvsbvt5Td",
+    "createdAt": "Dec 13, 2021, 2:15:18 PM",
+    "deleted": 0
+  },
+  {
+    "username": "ed",
+    "password": "123",
+    "status": "ACTIVE",
+    "role": "ADMIN",
+    "phoneNumber": "+998123456789",
+    "language": "UZ",
+    "id": "933907833900E4EUDoIRHkXNWU7ioXcrGZ9ctv",
+    "createdBy": "1450227492414800jwkt26SFvH05r0lt1nvsbvt5Td",
+    "createdAt": "Dec 15, 2021, 2:41:15 PM",
+    "deleted": 0
+  }
+]

@@ -1,0 +1,454 @@
+[
+  {
+    "location": "Chorsu",
+    "status": "ACTIVE",
+    "cassette": [
+      {
+        "currencyValue": "BESH_MING_SUM",
+        "cassetteType": "UZS",
+        "currencyCount": "5000",
+        "status": "ACTIVE",
+        "atmId": "938518699431500ZDiEKileIyhG2wrr0RV7TDQA6g",
+        "balance": 0.0,
+        "id": "938527137628800WG8VqxAooilqj8pWUluQERknFs",
+        "createdAt": "Dec 11, 2021, 10:20:57 AM",
+        "deleted": 0
+      },
+      {
+        "currencyValue": "YUZ_DOLLAR",
+        "cassetteType": "USD",
+        "currencyCount": "5000",
+        "status": "ACTIVE",
+        "atmId": "938518699431500ZDiEKileIyhG2wrr0RV7TDQA6g",
+        "balance": 0.0,
+        "id": "938535092212700w08ZE7MSbGMFacdPofFGgvVJrw",
+        "createdAt": "Dec 11, 2021, 10:21:05 AM",
+        "deleted": 0
+      }
+    ],
+    "balance": 0.0,
+    "id": "938518699431500ZDiEKileIyhG2wrr0RV7TDQA6g",
+    "createdAt": "Dec 11, 2021, 10:20:49 AM",
+    "deleted": 0
+  },
+  {
+    "location": "PDP",
+    "status": "BLOCKED",
+    "cassette": [
+      {
+        "currencyValue": "BESH_MING_SUM",
+        "cassetteType": "UZS",
+        "currencyCount": "5000",
+        "status": "ACTIVE",
+        "atmId": "945562791520500fnoOiuy5HE9riD86e5yW2RmGaW",
+        "balance": 0.0,
+        "id": "945574274124100ZXI8UkAfdowpXhB3h45Fh3i9M4",
+        "createdAt": "Dec 11, 2021, 12:18:24 PM",
+        "deleted": 0
+      },
+      {
+        "currencyValue": "YUZ_DOLLAR",
+        "cassetteType": "USD",
+        "currencyCount": "5000",
+        "status": "ACTIVE",
+        "atmId": "945562791520500fnoOiuy5HE9riD86e5yW2RmGaW",
+        "balance": 0.0,
+        "id": "9455825295958006o0ZyoNoSNWI3CsQkeZwZZbByB",
+        "createdAt": "Dec 11, 2021, 12:18:33 PM",
+        "deleted": 0
+      }
+    ],
+    "balance": 0.0,
+    "id": "945562791520500fnoOiuy5HE9riD86e5yW2RmGaW",
+    "createdBy": "1450227492414800jwkt26SFvH05r0lt1nvsbvt5Td",
+    "createdAt": "Dec 11, 2021, 12:18:13 PM",
+    "updatedBy": "1450227492414800jwkt26SFvH05r0lt1nvsbvt5Td",
+    "updatedAt": "Dec 11, 2021, 12:50:26 PM",
+    "deleted": 0
+  },
+  {
+    "location": "pdp",
+    "status": "ACTIVE",
+    "cassette": [
+      {
+        "currencyValue": "ELLIK_MING_SUM",
+        "cassetteType": "UZS",
+        "currencyCount": "100",
+        "status": "ACTIVE",
+        "atmId": "236702457797700vB6kReHPlamqLnHbsRlOGxSSGy",
+        "balance": 0.0,
+        "id": "236797866206400seVIS0BYAWJALFeYdJfTXCiiW7",
+        "createdAt": "Dec 11, 2021, 3:06:52 PM",
+        "deleted": 0
+      },
+      {
+        "currencyValue": "YUZ_DOLLAR",
+        "cassetteType": "USD",
+        "currencyCount": "1000",
+        "status": "ACTIVE",
+        "atmId": "236702457797700vB6kReHPlamqLnHbsRlOGxSSGy",
+        "balance": 0.0,
+        "id": "236810741068400iJBNNfPwmNoyn12x6OgoGjDKkJ",
+        "createdAt": "Dec 11, 2021, 3:07:05 PM",
+        "deleted": 0
+      }
+    ],
+    "balance": 0.0,
+    "id": "236702457797700vB6kReHPlamqLnHbsRlOGxSSGy",
+    "createdBy": "236665617741900Ioiq3w5SlwnmjTJY5WbFuXVkHj",
+    "createdAt": "Dec 11, 2021, 3:05:17 PM",
+    "deleted": 0
+  },
+  {
+    "location": "as",
+    "status": "ACTIVE",
+    "cassette": [
+      {
+        "currencyValue": "BESH_MING_SUM",
+        "cassetteType": "UZS",
+        "currencyCount": "1000",
+        "status": "ACTIVE",
+        "atmId": "2427078279100LQICrUdkxBWrWgNO1LxzkF9RXV",
+        "balance": 0.0,
+        "id": "2449592578500rShGJJET6EQSbSZDqK7N6lATw1",
+        "createdAt": "Dec 13, 2021, 2:59:03 PM",
+        "deleted": 0
+      },
+      {
+        "currencyValue": "MING_SUM",
+        "cassetteType": "UZS",
+        "currencyCount": "1000",
+        "status": "ACTIVE",
+        "atmId": "2427078279100LQICrUdkxBWrWgNO1LxzkF9RXV",
+        "balance": 0.0,
+        "id": "2509138593000z3xETGLunn7v2ASHhBvEdEzT1K",
+        "createdAt": "Dec 13, 2021, 3:00:03 PM",
+        "deleted": 0
+      }
+    ],
+    "balance": 0.0,
+    "id": "2427078279100LQICrUdkxBWrWgNO1LxzkF9RXV",
+    "createdBy": "46039642736001Dze0NFEHwYtDWilVuJ17rYfwn",
+    "createdAt": "Dec 13, 2021, 2:58:41 PM",
+    "deleted": 0
+  },
+  {
+    "location": "QAZ",
+    "status": "ACTIVE",
+    "cassette": [
+      {
+        "currencyValue": "ON_MING_SUM",
+        "cassetteType": "UZS",
+        "currencyCount": "1000",
+        "status": "ACTIVE",
+        "atmId": "2570234794400HSoD3oSHDsrSHSjeqhIlM7vIn3",
+        "balance": 0.0,
+        "id": "2585447683300mlUV1zRJjVw21J8PgoTZWADFNJ",
+        "createdAt": "Dec 13, 2021, 3:01:19 PM",
+        "deleted": 0
+      },
+      {
+        "currencyValue": "BESH_MING_SUM",
+        "cassetteType": "UZS",
+        "currencyCount": "1000",
+        "status": "ACTIVE",
+        "atmId": "2570234794400HSoD3oSHDsrSHSjeqhIlM7vIn3",
+        "balance": 0.0,
+        "id": "25977535567001HTYMno8mTJwZyhLHmqYGKBRlm",
+        "createdAt": "Dec 13, 2021, 3:01:31 PM",
+        "deleted": 0
+      },
+      {
+        "currencyValue": "ON_MING_SUM",
+        "cassetteType": "UZS",
+        "currencyCount": "1000",
+        "status": "ACTIVE",
+        "atmId": "2570234794400HSoD3oSHDsrSHSjeqhIlM7vIn3",
+        "balance": 0.0,
+        "id": "2606776250300HEqUb62bWHzIoESuk1dYdG7jL4",
+        "createdAt": "Dec 13, 2021, 3:01:40 PM",
+        "deleted": 0
+      },
+      {
+        "currencyValue": "ELLIK_MING_SUM",
+        "cassetteType": "UZS",
+        "currencyCount": "1000",
+        "status": "ACTIVE",
+        "atmId": "2570234794400HSoD3oSHDsrSHSjeqhIlM7vIn3",
+        "balance": 0.0,
+        "id": "2614147182500cdodyTQCkVrQYjTefJMCITNyjm",
+        "createdAt": "Dec 13, 2021, 3:01:48 PM",
+        "deleted": 0
+      },
+      {
+        "currencyValue": "ELLIK_DOLLAR",
+        "cassetteType": "USD",
+        "currencyCount": "1000",
+        "status": "ACTIVE",
+        "atmId": "2570234794400HSoD3oSHDsrSHSjeqhIlM7vIn3",
+        "balance": 0.0,
+        "id": "26206394537005MAlq3a1CZGdycYB16nSEvrVFv",
+        "createdAt": "Dec 13, 2021, 3:01:54 PM",
+        "deleted": 0
+      },
+      {
+        "currencyValue": "YUZ_DOLLAR",
+        "cassetteType": "USD",
+        "currencyCount": "1000",
+        "status": "ACTIVE",
+        "atmId": "2570234794400HSoD3oSHDsrSHSjeqhIlM7vIn3",
+        "balance": 0.0,
+        "id": "2630010675100DJEZ5EXM1SN9W5U0URFL10LSta",
+        "createdAt": "Dec 13, 2021, 3:02:03 PM",
+        "deleted": 0
+      }
+    ],
+    "balance": 0.0,
+    "id": "2570234794400HSoD3oSHDsrSHSjeqhIlM7vIn3",
+    "createdBy": "46039642736001Dze0NFEHwYtDWilVuJ17rYfwn",
+    "createdAt": "Dec 13, 2021, 3:01:04 PM",
+    "deleted": 1
+  },
+  {
+    "location": "QAZ",
+    "status": "ACTIVE",
+    "cassette": [
+      {
+        "currencyValue": "ON_MING_SUM",
+        "cassetteType": "UZS",
+        "currencyCount": "1000",
+        "status": "ACTIVE",
+        "atmId": "2570234794400HSoD3oSHDsrSHSjeqhIlM7vIn3",
+        "balance": 0.0,
+        "id": "2585447683300mlUV1zRJjVw21J8PgoTZWADFNJ",
+        "createdAt": "Dec 13, 2021, 3:01:19 PM",
+        "deleted": 0
+      },
+      {
+        "currencyValue": "BESH_MING_SUM",
+        "cassetteType": "UZS",
+        "currencyCount": "1000",
+        "status": "ACTIVE",
+        "atmId": "2570234794400HSoD3oSHDsrSHSjeqhIlM7vIn3",
+        "balance": 0.0,
+        "id": "25977535567001HTYMno8mTJwZyhLHmqYGKBRlm",
+        "createdAt": "Dec 13, 2021, 3:01:31 PM",
+        "deleted": 0
+      },
+      {
+        "currencyValue": "ON_MING_SUM",
+        "cassetteType": "UZS",
+        "currencyCount": "1000",
+        "status": "ACTIVE",
+        "atmId": "2570234794400HSoD3oSHDsrSHSjeqhIlM7vIn3",
+        "balance": 0.0,
+        "id": "2606776250300HEqUb62bWHzIoESuk1dYdG7jL4",
+        "createdAt": "Dec 13, 2021, 3:01:40 PM",
+        "deleted": 0
+      },
+      {
+        "currencyValue": "ELLIK_MING_SUM",
+        "cassetteType": "UZS",
+        "currencyCount": "1000",
+        "status": "ACTIVE",
+        "atmId": "2570234794400HSoD3oSHDsrSHSjeqhIlM7vIn3",
+        "balance": 0.0,
+        "id": "2614147182500cdodyTQCkVrQYjTefJMCITNyjm",
+        "createdAt": "Dec 13, 2021, 3:01:48 PM",
+        "deleted": 0
+      },
+      {
+        "currencyValue": "ELLIK_DOLLAR",
+        "cassetteType": "USD",
+        "currencyCount": "1000",
+        "status": "ACTIVE",
+        "atmId": "2570234794400HSoD3oSHDsrSHSjeqhIlM7vIn3",
+        "balance": 0.0,
+        "id": "26206394537005MAlq3a1CZGdycYB16nSEvrVFv",
+        "createdAt": "Dec 13, 2021, 3:01:54 PM",
+        "deleted": 0
+      },
+      {
+        "currencyValue": "YUZ_DOLLAR",
+        "cassetteType": "USD",
+        "currencyCount": "999",
+        "status": "ACTIVE",
+        "atmId": "2570234794400HSoD3oSHDsrSHSjeqhIlM7vIn3",
+        "balance": 0.0,
+        "id": "2630010675100DJEZ5EXM1SN9W5U0URFL10LSta",
+        "createdAt": "Dec 13, 2021, 3:02:03 PM",
+        "deleted": 0
+      }
+    ],
+    "balance": 0.0,
+    "id": "2570234794400HSoD3oSHDsrSHSjeqhIlM7vIn3",
+    "createdBy": "46039642736001Dze0NFEHwYtDWilVuJ17rYfwn",
+    "createdAt": "Dec 13, 2021, 3:01:04 PM",
+    "deleted": 1
+  },
+  {
+    "location": "pdp",
+    "status": "ACTIVE",
+    "cassette": [
+      {
+        "currencyValue": "ELLIK_MING_SUM",
+        "cassetteType": "UZS",
+        "currencyCount": "100",
+        "status": "ACTIVE",
+        "atmId": "236702457797700vB6kReHPlamqLnHbsRlOGxSSGy",
+        "balance": 0.0,
+        "id": "236797866206400seVIS0BYAWJALFeYdJfTXCiiW7",
+        "createdAt": "Dec 11, 2021, 3:06:52 PM",
+        "deleted": 0
+      },
+      {
+        "currencyValue": "YUZ_DOLLAR",
+        "cassetteType": "USD",
+        "currencyCount": "999",
+        "status": "ACTIVE",
+        "atmId": "236702457797700vB6kReHPlamqLnHbsRlOGxSSGy",
+        "balance": 0.0,
+        "id": "236810741068400iJBNNfPwmNoyn12x6OgoGjDKkJ",
+        "createdAt": "Dec 11, 2021, 3:07:05 PM",
+        "deleted": 0
+      }
+    ],
+    "balance": 0.0,
+    "id": "236702457797700vB6kReHPlamqLnHbsRlOGxSSGy",
+    "createdBy": "236665617741900Ioiq3w5SlwnmjTJY5WbFuXVkHj",
+    "createdAt": "Dec 11, 2021, 3:05:17 PM",
+    "deleted": 0
+  },
+  {
+    "location": "pdp",
+    "status": "ACTIVE",
+    "cassette": [
+      {
+        "currencyValue": "ELLIK_MING_SUM",
+        "cassetteType": "UZS",
+        "currencyCount": "100",
+        "status": "ACTIVE",
+        "atmId": "236702457797700vB6kReHPlamqLnHbsRlOGxSSGy",
+        "balance": 0.0,
+        "id": "236797866206400seVIS0BYAWJALFeYdJfTXCiiW7",
+        "createdAt": "Dec 11, 2021, 3:06:52 PM",
+        "deleted": 0
+      },
+      {
+        "currencyValue": "YUZ_DOLLAR",
+        "cassetteType": "USD",
+        "currencyCount": "989",
+        "status": "ACTIVE",
+        "atmId": "236702457797700vB6kReHPlamqLnHbsRlOGxSSGy",
+        "balance": 0.0,
+        "id": "236810741068400iJBNNfPwmNoyn12x6OgoGjDKkJ",
+        "createdAt": "Dec 11, 2021, 3:07:05 PM",
+        "deleted": 0
+      }
+    ],
+    "balance": 0.0,
+    "id": "236702457797700vB6kReHPlamqLnHbsRlOGxSSGy",
+    "createdBy": "236665617741900Ioiq3w5SlwnmjTJY5WbFuXVkHj",
+    "createdAt": "Dec 11, 2021, 3:05:17 PM",
+    "deleted": 0
+  },
+  {
+    "location": "pdp",
+    "status": "ACTIVE",
+    "cassette": [
+      {
+        "currencyValue": "ELLIK_MING_SUM",
+        "cassetteType": "UZS",
+        "currencyCount": "100",
+        "status": "ACTIVE",
+        "atmId": "236702457797700vB6kReHPlamqLnHbsRlOGxSSGy",
+        "balance": 0.0,
+        "id": "236797866206400seVIS0BYAWJALFeYdJfTXCiiW7",
+        "createdAt": "Dec 11, 2021, 3:06:52 PM",
+        "deleted": 0
+      },
+      {
+        "currencyValue": "YUZ_DOLLAR",
+        "cassetteType": "USD",
+        "currencyCount": "979",
+        "status": "ACTIVE",
+        "atmId": "236702457797700vB6kReHPlamqLnHbsRlOGxSSGy",
+        "balance": 0.0,
+        "id": "236810741068400iJBNNfPwmNoyn12x6OgoGjDKkJ",
+        "createdAt": "Dec 11, 2021, 3:07:05 PM",
+        "deleted": 0
+      }
+    ],
+    "balance": 0.0,
+    "id": "236702457797700vB6kReHPlamqLnHbsRlOGxSSGy",
+    "createdBy": "236665617741900Ioiq3w5SlwnmjTJY5WbFuXVkHj",
+    "createdAt": "Dec 11, 2021, 3:05:17 PM",
+    "deleted": 0
+  },
+  {
+    "location": "pdp",
+    "status": "ACTIVE",
+    "cassette": [
+      {
+        "currencyValue": "ELLIK_MING_SUM",
+        "cassetteType": "UZS",
+        "currencyCount": "100",
+        "status": "ACTIVE",
+        "atmId": "236702457797700vB6kReHPlamqLnHbsRlOGxSSGy",
+        "balance": 0.0,
+        "id": "236797866206400seVIS0BYAWJALFeYdJfTXCiiW7",
+        "createdAt": "Dec 11, 2021, 3:06:52 PM",
+        "deleted": 0
+      },
+      {
+        "currencyValue": "YUZ_DOLLAR",
+        "cassetteType": "USD",
+        "currencyCount": "879",
+        "status": "ACTIVE",
+        "atmId": "236702457797700vB6kReHPlamqLnHbsRlOGxSSGy",
+        "balance": 0.0,
+        "id": "236810741068400iJBNNfPwmNoyn12x6OgoGjDKkJ",
+        "createdAt": "Dec 11, 2021, 3:07:05 PM",
+        "deleted": 0
+      }
+    ],
+    "balance": 0.0,
+    "id": "236702457797700vB6kReHPlamqLnHbsRlOGxSSGy",
+    "createdBy": "236665617741900Ioiq3w5SlwnmjTJY5WbFuXVkHj",
+    "createdAt": "Dec 11, 2021, 3:05:17 PM",
+    "deleted": 0
+  },
+  {
+    "location": "pdp",
+    "status": "ACTIVE",
+    "cassette": [
+      {
+        "currencyValue": "ELLIK_MING_SUM",
+        "cassetteType": "UZS",
+        "currencyCount": "100",
+        "status": "ACTIVE",
+        "atmId": "236702457797700vB6kReHPlamqLnHbsRlOGxSSGy",
+        "balance": 0.0,
+        "id": "236797866206400seVIS0BYAWJALFeYdJfTXCiiW7",
+        "createdAt": "Dec 11, 2021, 3:06:52 PM",
+        "deleted": 0
+      },
+      {
+        "currencyValue": "YUZ_DOLLAR",
+        "cassetteType": "USD",
+        "currencyCount": "379",
+        "status": "ACTIVE",
+        "atmId": "236702457797700vB6kReHPlamqLnHbsRlOGxSSGy",
+        "balance": 0.0,
+        "id": "236810741068400iJBNNfPwmNoyn12x6OgoGjDKkJ",
+        "createdAt": "Dec 11, 2021, 3:07:05 PM",
+        "deleted": 0
+      }
+    ],
+    "balance": 0.0,
+    "id": "236702457797700vB6kReHPlamqLnHbsRlOGxSSGy",
+    "createdBy": "236665617741900Ioiq3w5SlwnmjTJY5WbFuXVkHj",
+    "createdAt": "Dec 11, 2021, 3:05:17 PM",
+    "deleted": 0
+  }
+]
